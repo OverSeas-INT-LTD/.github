@@ -49,7 +49,7 @@ Here’s how we create impact:
 ### Join Us 🤝  
 
 📩 **Let’s Connect!**  
-Email: [barcyle@overseas.org.uk](mailto:contact-gh@overseas.org.uk)  
+Email: [contact-gh@overseas.org.uk](mailto:contact-gh@overseas.org.uk)  
 
 💡 **Stay Updated!**  
 Follow us for the latest insights and updates in Web 3.0, FinTech, AGI, and more.  
